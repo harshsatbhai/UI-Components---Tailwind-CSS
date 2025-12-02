@@ -13,8 +13,13 @@ This component is lightweight, customizable, and easy to integrate into any Tail
 
 
 ## Setup
+
+1. Run this command to install package.json and node_modules:
+   ```bash
+   npm init -y
+   ```
     
-   Run this command in your project directory [cd Project-Directory] to start making changes in UI Component:
+2. Run this command in your project directory [cd Project-Directory] to start making changes in UI Component:
    ```bash
    npx tailwindcss -i ./src/input.css -o ./src/output.css --watch  
    ```
