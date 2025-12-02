@@ -31,7 +31,8 @@ This component is lightweight, customizable, and easy to integrate into any Tail
 
 ## Project Structure
 
-    UI-Components---Tailwind-CSS/
+```text
+UI-Components---Tailwind-CSS/
 └── Footer/
     ├── node_modules/
     ├── public/
@@ -42,6 +43,7 @@ This component is lightweight, customizable, and easy to integrate into any Tail
     ├── package.json
     ├── package-lock.json
     └── tailwind.config.js
+```
 
 
    
