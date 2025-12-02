@@ -14,9 +14,11 @@ This component is lightweight, customizable, and easy to integrate into any Tail
 
 ## Setup
 
-1. Run this command to install package.json and node_modules:
+1. Run this command to install package.json, package-lock.json and node_modules in 'Footer' folder:
    ```bash
+   cd UI-Components---Tailwind-CSS/Footer/
    npm init -y
+   npm install node
    ```
     
 2. Run this command in your project directory [cd Project-Directory] to start making changes in UI Component:
@@ -29,8 +31,8 @@ This component is lightweight, customizable, and easy to integrate into any Tail
 
 ## Project Structure
 
-UI-Components---Tailwind-CSS/
-└── Footer(Project-Directory)/
+    UI-Components---Tailwind-CSS/
+└── Footer/
     ├── node_modules/
     ├── public/
     ├── src/
@@ -40,6 +42,7 @@ UI-Components---Tailwind-CSS/
     ├── package.json
     ├── package-lock.json
     └── tailwind.config.js
+
 
    
  
